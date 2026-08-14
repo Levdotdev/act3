@@ -1,0 +1,9 @@
+body {
+    font-family: 'Rajdhani', sans-serif;
+    background-color: skyblue;
+    min-height: 100vh;
+    overflow: hidden;
+    margin: 0;
+    perspective: 1000px;
+    text-align: center;
+}
